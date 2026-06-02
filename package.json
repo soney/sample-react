@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
+  "homepage": "https://soney.github.io/sample-react",
   "scripts": {
     "start": "./node_modules/.bin/webpack serve --mode development",
     "dev": "./node_modules/.bin/webpack serve --mode development",
